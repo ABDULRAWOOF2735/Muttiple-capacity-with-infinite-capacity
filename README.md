@@ -22,6 +22,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+```
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -53,7 +54,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+```
 ## Output :
 <img width="1066" height="546" alt="image" src="https://github.com/user-attachments/assets/825dbae4-78df-499f-9ab7-5b4adeefb7d1" />
 ## Result : 
